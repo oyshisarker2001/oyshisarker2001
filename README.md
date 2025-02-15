@@ -2,7 +2,7 @@
 🎓 MS in Computer Engineering @ Cal State Fullerton (4.0 GPA)<br>💻 Software Devoloper | AI & ML Enthusiast | Backend Developer<br>🏆 LeetCode & DSA: Strong problem-solving skills using C++<br> 🔍 Actively Seeking Summer 2025 Internship in Software Engineering,<br> AI/ML, or Backend Development<br>
 
 
-📄 Check out my Resume: Oyshi P SarkerMs Student.pdf
+📄 **Check out my Resume:** [View Resume](https://github.com/oyshisarker2001/Resume/blob/main/Oyshi%20P%20SarkerMs%20Student.pdf)
 
 
 ## 🌐 Socials:
