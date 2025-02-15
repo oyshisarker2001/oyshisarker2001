@@ -1,6 +1,6 @@
 # 💫 About Me:
-🎓 MS in Computer Engineering @ Cal State Fullerton (4.0 GPA)<br>💻 Software Devoloper | AI & ML Enthusiast | Backend Developer<br>🏆 LeetCode & DSA: Strong problem-solving skills using C++<br>🔍 Actively Seeking Summer 2025 Internship in Software Engineering,<br> AI/ML, or Backend Development<br>
-📄 Check out my Resume: [View Resume] (https://github.com/oyshisarker2001/Resume)
+🎓 MS in Computer Engineering @ Cal State Fullerton (4.0 GPA)<br>💻 Software Devoloper | AI & ML Enthusiast | Backend Developer<br>🏆 LeetCode & DSA: Strong problem-solving skills using C++<br> 📄 Check out my Resume: [View Resume] (https://github.com/oyshisarker2001/Resume) 🔍 Actively Seeking Summer 2025 Internship in Software Engineering,<br> AI/ML, or Backend Development<br>
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/oyshi_sarker_45160) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/oyshi-pronomy-sarker-0aa1891b4/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:oyshi@csu.fullerton.edu) 
